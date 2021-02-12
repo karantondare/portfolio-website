@@ -19,6 +19,18 @@ const Projects = () => {
           ]}
         />
         <CustomProject
+          title="Gamers Den"
+          link="https://github.com/karantondare/react-rmdb-movie-app"
+          desc="Website for gamers that shows popular and latest games."
+          usedArray={[
+            "JavaScript",
+            "React",
+            "Redux",
+            "Rawg API",
+            "Styled-Components",
+          ]}
+        />
+        <CustomProject
           title="Github Fetch Popular Repos"
           link="https://github.com/karantondare/github-fetch-popular-repos"
           desc="A rect app that uses GitHub API to fetch popular repos on GitHub."
