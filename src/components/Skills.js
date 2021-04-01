@@ -21,18 +21,18 @@ const Skills = () => {
     <section className="section skills">
       <div className="section-title">SKILLS</div>
       <div className="section-content section-icons">
-        <FaHtml5 />
-        <FaCss3 />
-        <FaJsSquare />
-        <FaReact />
-        <SiRedux />
-        <FaNode />
-        <SiMongodb />
-        <SiFirebase />
-        <SiTailwindcss />
-        <FaNpm />
-        <FaGitAlt />
-        <FaGithub />
+        <FaHtml5 className="icon-hover" />
+        <FaCss3 className="icon-hover" />
+        <FaJsSquare className="icon-hover" />
+        <FaReact className="icon-hover" />
+        <SiRedux className="icon-hover" />
+        <FaNode className="icon-hover" />
+        <SiMongodb className="icon-hover" />
+        <SiFirebase className="icon-hover" />
+        <SiTailwindcss className="icon-hover" />
+        <FaNpm className="icon-hover" />
+        <FaGitAlt className="icon-hover" />
+        <FaGithub className="icon-hover" />
       </div>
     </section>
   );
