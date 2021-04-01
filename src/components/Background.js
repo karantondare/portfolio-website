@@ -7,7 +7,12 @@ const Background = () => {
       <div className="section-content">
         <p>
           I recently graduated from{" "}
-          <a href="http://www.unipune.ac.in/" className="underline-link">
+          <a
+            href="http://www.unipune.ac.in/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline-link"
+          >
             Savitiribai Phule Pune University
           </a>{" "}
           after completing Bachelor of Engineering in Electronics &

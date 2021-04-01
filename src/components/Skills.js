@@ -6,12 +6,17 @@ import {
   FaSass,
   FaCss3,
   FaNpm,
-  FaAws,
   FaNode,
   FaGitAlt,
   FaGithub,
 } from "react-icons/fa";
-import { SiFirebase, SiNetlify } from "react-icons/si";
+import {
+  SiFirebase,
+  SiNetlify,
+  SiRedux,
+  SiMongodb,
+  SiTailwindcss,
+} from "react-icons/si";
 
 const Skills = () => {
   return (
@@ -22,14 +27,14 @@ const Skills = () => {
         <FaCss3 />
         <FaJsSquare />
         <FaReact />
+        <SiRedux />
         <FaNode />
+        <SiMongodb />
         <SiFirebase />
-        <FaSass />
-        <FaAws />
+        <SiTailwindcss />
         <FaNpm />
         <FaGitAlt />
         <FaGithub />
-        <SiNetlify />
       </div>
     </section>
   );
