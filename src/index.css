@@ -143,9 +143,6 @@ svg {
 svg:hover {
   color: #0967d2;
   opacity: 1;
-  -webkit-transform: scale(1.2);
-  -ms-transform: scale(1.2);
-  transform: scale(1.25);
 }
 
 img {
@@ -403,6 +400,15 @@ strong {
   grid-row-gap: 50px;
   cursor: pointer;
   padding-top: 10px;
+}
+
+.icon-hover {
+  transition: transform 250ms, opacity 400ms;
+}
+
+.icon-hover:hover {
+  transform: scale(1.25);
+  opacity: 1;
 }
 
 .section-icons > * {
