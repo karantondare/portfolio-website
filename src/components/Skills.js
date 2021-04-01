@@ -3,7 +3,6 @@ import {
   FaJsSquare,
   FaReact,
   FaHtml5,
-  FaSass,
   FaCss3,
   FaNpm,
   FaNode,
@@ -12,7 +11,6 @@ import {
 } from "react-icons/fa";
 import {
   SiFirebase,
-  SiNetlify,
   SiRedux,
   SiMongodb,
   SiTailwindcss,
