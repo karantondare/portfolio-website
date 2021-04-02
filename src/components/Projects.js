@@ -10,7 +10,7 @@ const Projects = () => {
           <CustomProject
             title="Kodevents"
             link="https://github.com/karantondare/kodevents"
-            desc="Find out the latest tech events happening in-person and remote. Interested in hosting an event? Create a event and get people registered with few simple steps."
+            desc="Find out the latest tech events happening in-person and remote. Interested in hosting an event? Create an event and get people registered with a few simple steps."
             usedArray={[
               "JavaScript",
               "React",
@@ -35,7 +35,7 @@ const Projects = () => {
           <CustomProject
             title="Gamers Den"
             link="https://github.com/karantondare/gamers-den"
-            desc="Don't know the hotest trending games on the market? Gamers Den helps you find the latest top games. Find the upcoming titles, so that you can added them to your list."
+            desc="Don't know the hottest trending games on the market? Gamers Den helps you find the latest top games. Find the upcoming titles, so that you can add them to your list."
             usedArray={[
               "JavaScript",
               "React",
