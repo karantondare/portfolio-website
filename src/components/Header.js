@@ -7,9 +7,9 @@ const Header = () => {
         नमस्कार! <span className="emoji">🙏🏼</span>
       </h1>
       <h2 className="intro-tagline">
-        I'm <span className="name">Karan Tondare</span>, a front-end engineer
-        based in Pune, India. I love building beautiful interfaces, web apps,
-        and everything in between!
+        I'm <span className="name">Karan Tondare</span>, a web developer based
+        in Pune, India. I love building beautiful interfaces, web apps, and
+        everything in between!
       </h2>
       <h3 className="intro-contact">
         <span>Get in touch 👉🏼</span>{" "}

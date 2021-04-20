@@ -31,7 +31,7 @@ const Background = () => {
         </p>
         <a
           className="arrow-link"
-          href="https://drive.google.com/file/d/1ab1_NHYhJeqYYwsUL0v031sdHNtYC-Uc/view?usp=sharing"
+          href="https://drive.google.com/file/d/1wPFif681hYTbExjVcNWGq9SDaEl5uPKr/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
         >

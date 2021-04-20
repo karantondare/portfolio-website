@@ -10,7 +10,7 @@ const Projects = () => {
           <CustomProject
             title="Kodevents"
             link="https://github.com/karantondare/kodevents"
-            desc="Find out the latest tech events happening in-person and remote. Interested in hosting an event? Create an event and get people registered with a few simple steps."
+            desc="A web app to help you foster meaningful relationships within your community through events. Get people registered for your events without any hassle."
             usedArray={[
               "JavaScript",
               "React",
@@ -18,6 +18,31 @@ const Projects = () => {
               "React Router",
               "Semantic UI",
               "Firebase",
+            ]}
+          />
+          <CustomProject
+            title="Instalike"
+            link="https://github.com/karantondare/instalike"
+            desc="Fullstack social media app to share your memories with CRUD functionality. You can create your posts and like other peoples people."
+            usedArray={[
+              "JavaScript",
+              "React",
+              "Redux",
+              "Express",
+              "MongoDB",
+              "Material UI",
+            ]}
+          />
+          <CustomProject
+            title="Kitab Khana"
+            link="https://github.com/karantondare/kitab-khana"
+            desc="A full stack eCommerce website to purchase books with an admin panel to manage the orders and inventory."
+            usedArray={[
+              "JavaScript",
+              "React",
+              "React Router",
+              "TMDb API",
+              "Styled-Components",
             ]}
           />
           <CustomProject
@@ -31,30 +56,6 @@ const Projects = () => {
               "TMDb API",
               "Styled-Components",
             ]}
-          />
-          <CustomProject
-            title="Gamers Den"
-            link="https://github.com/karantondare/gamers-den"
-            desc="Don't know the hottest trending games on the market? Gamers Den helps you find the latest top games. Find the upcoming titles, so that you can add them to your list."
-            usedArray={[
-              "JavaScript",
-              "React",
-              "Redux",
-              "Rawg API",
-              "Styled-Components",
-            ]}
-          />
-          <CustomProject
-            title="Github Fetch Popular Repos"
-            link="https://github.com/karantondare/github-fetch-popular-repos"
-            desc="A react app that uses GitHub API to fetch popular repos on GitHub for various programming  languages and technologies."
-            usedArray={["HTML", "CSS", "JavaScript", "React"]}
-          />
-          <CustomProject
-            title="Speed typing Game"
-            link="https://github.com/karantondare/speed-typing-game"
-            desc="Do you know how fast you can type? "
-            usedArray={["HTML", "CSS", "JavaScript", "React"]}
           />
         </div>
       </section>
